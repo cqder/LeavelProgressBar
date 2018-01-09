@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LevelProgressBar">
+        <attr name="levelTextSize" format="dimension"/>
+        <attr name="progressHeight" format="dimension"/>
+        <attr name="levelTextChooseColor" format="color"/>
+        <attr name="levelTextUnChooseColor" format="color"/>
+        <attr name="progressStartColor" format="color"/>
+        <attr name="progressBgColor" format="color"/>
+        <attr name="progressEndColor" format="color"/>
+    </declare-styleable>
+    <!--reference 统一资源id -->
+    <!--color 颜色-->
+    <!--dimension 尺寸-->
+    <!--boolean 布尔-->
+    <!--float 浮点-->
+    <!--integer 整数-->
+    <!--string 字符串-->
+    <!--fraction 百分比-->
+    <!--enum 枚举值-->
+    <!--flag 自己定义的 类似于 android:gravity="top"，就是里面对应了自己的属性值。-->
+    <!--reference|color 颜色的资源文件-->
+    <!--reference|boolean 布尔的资源文件-->
+</resources>
